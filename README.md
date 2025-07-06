@@ -1,4 +1,6 @@
 # Superstore Sales Analysis (SQL)
+Using SQL to transform raw Superstore data into revenue-driving insights.
+
 This project showcases how I used SQL to clean and analyze sales and return data from the Superstore dataset — answering key business questions and uncovering profit-driving insights.
 
 ## Project Summary
